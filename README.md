@@ -62,6 +62,6 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 Let's connect and build something amazing together! Reach out to me via:
 
-- [![LinkedIn](https://www.linkedin.com/in/pratyusha-kumar-pati-99b42b303/)
+- [![LinkedIn](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prosws2210/)](https://www.linkedin.com/in/pratyusha-kumar-pati-99b42b303/)
 
 Looking forward to connecting with you! 😊
