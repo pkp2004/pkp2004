@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pratyusha Kumar Pati!
 
-I'm a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning, currently pursuing my 3rd year at Achariya College Of Engineering & Technology. Exploring the endless possibilities of technology and its applications drives my curiosity.
+I'm a passionate Artificial intelligence & Data science student, currently pursuing my 3rd year at Achariya College Of Engineering & Technology. Exploring the endless possibilities of technology and its applications drives my curiosity.
 
 
 ## 🚀 About Me
